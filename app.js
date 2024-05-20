@@ -38,5 +38,5 @@ app.get('/*', (req, res) => {
 
 
 app.listen(5005, () => {
-    console.log('Servidor levantado yabadú')
+    console.log('Servidor levantado lab día 1')
 })
